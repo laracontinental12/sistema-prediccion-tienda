@@ -1,0 +1,5 @@
+venv_PP3A/
+.env
+__pycache__/
+*.pyc
+.vscode/
